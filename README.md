@@ -8,4 +8,5 @@ Atividades da disciplina de desenvolvimento Web I (parte de HTML)
 - [Atividade5:](atividade5.html)
 - [Atividade6:](atividade6.html)
 - [Atividade7:](atividade7.html)
-  
+- [Atividade8:](atividade8.html)
+- [Atividade9:](atividade9.html)
